@@ -1,6 +1,6 @@
 # Reflection: Learning Unit Testing and CI Pipelines
 
-During a recent interview, I realized that I didn’t have much hands-on experience with **unit testing** and **CI/CD pipelines** like GitHub Actions (as well as promises in JavaScript). I wanted to gain some basic exposure , so I completely this small activity.
+During a recent interview, I realized that I didn’t have much hands-on experience with **unit testing** and **CI/CD pipelines** like GitHub Actions (as well as promises in JavaScript). I wanted to gain some basic exposure , so I completed this small activity.
 
 ## What I Learned
 
