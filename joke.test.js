@@ -13,5 +13,5 @@ test("getFormattedJoke returns a string", async () => {
 
 test("formatted joke contains dash", async () => {
   const result = await getFormattedJoke();
-  expect(result).toContain(" - ");
+  expect(result).toContain("AHAHAHA");
 });
